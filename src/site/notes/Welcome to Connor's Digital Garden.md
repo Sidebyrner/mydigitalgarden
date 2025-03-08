@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-connor-s-digital-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome-to-connor-s-digital-garden/"}
 ---
 
 ---
